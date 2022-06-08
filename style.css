@@ -1,4 +1,12 @@
-#header{
-    background-color: green;
+.header{
+    background-color: rgba(48, 107, 126, 0.702);
+    color: rgb(69, 49, 49);
     font-size: 29px;
+    text-align: center;
+}
+
+.list{
+    text-align: center;
+    color: black;
+    font-size: 20px;
 }
